@@ -1,0 +1,23 @@
+body {
+    color: #6c605c;
+}
+
+.container-fluid {
+    height: 100vh;
+    background-color: #e9f1f4;
+}
+
+.col {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: pink;
+    margin: 1px;
+}
+
+.col-sm, .col-sm-4, .col-sm-8 {
+    border: 1px solid black;
+}
+
+.col-sm {
+    background-color: #a1e7eb;
+}
