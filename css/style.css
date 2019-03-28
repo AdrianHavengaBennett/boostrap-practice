@@ -1,23 +1,26 @@
-body {
-    color: #6c605c;
+header {
+    text-align: center;
+    background-color: #5c686c;
+    color: #cdcedf;
+}
+
+footer {
+    text-align: center;
+    background-color: #5c686c;
+    color: #cdcedf;
 }
 
 .container-fluid {
     height: 100vh;
-    background-color: #e9f1f4;
-}
-
-.col {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    background-color: pink;
-    margin: 1px;
-}
-
-.col-sm, .col-sm-4, .col-sm-8 {
-    border: 1px solid black;
+    background-color: #a1e7eb;    
 }
 
 .col-sm {
-    background-color: #a1e7eb;
+    border: 1px solid #a9a3a8;
+    background-color: pink;
+}
+
+.col-info-contact {
+    background-color: #26ef78;
+    color: #5c686c;
 }
